@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=250&section=header&text=C0der0utOf&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DIGITAL%20ARCHITECT%20%E2%80%A2%20PENETRATION%20TESTER%20%E2%80%A2%20CHAOS%20CREATOR&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=250&section=header&text=0xCODE-666&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DIGITAL%20ARCHITECT%20%E2%80%A2%20PENETRATION%20TESTER%20%E2%80%A2%20CHAOS%20CREATOR&descAlignY=55&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Lets+give+forensics+some+work+to+do" alt="Typing SVG" />
 
@@ -61,7 +61,7 @@ I am a Pentester who, next to my Job builds Red Teaming Frameworks and Offensive
 <div align="center">
 
 
-<img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=C0der0utOf&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff0040&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=f97316&sideNums=c9d1d9&dates=6b7280" alt="GitHub Streak"/>
+<img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xCODE-666&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff0040&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=f97316&sideNums=c9d1d9&dates=6b7280" alt="GitHub Streak"/>
 
 </div>
 
@@ -71,7 +71,7 @@ I am a Pentester who, next to my Job builds Red Teaming Frameworks and Offensive
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=C0der0utOf&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=f97316&point=ff0040&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xCODE-666&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=f97316&point=ff0040&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline)
 
 </div>
 
