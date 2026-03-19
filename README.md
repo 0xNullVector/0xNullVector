@@ -1,129 +1,171 @@
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- SIGNALIS // UNIT PROFILE · REPLIKA DESIGNATION: 0xNullVector     -->
+<!-- PENROSE DIVISION · CLASS: LSTR · CYCLE: ACTIVE                        -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=250&section=header&text=0xNullVector&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DIGITAL%20ARCHITECT%20%E2%80%A2%20PENETRATION%20TESTER%20%E2%80%A2%20CHAOS%20CREATOR&descAlignY=55&descSize=18)
+<!-- Glitch-style header banner using shields -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0000,140000,1a0505,0d0000&height=3&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Lets+give+forensics+some+work+to+do" alt="Typing SVG" />
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  ██████╗ ██╗ ██████╗ ███╗  ██╗ █████╗ ██╗     ██╗ ██████╗
+  ██╔═══╝ ██║ ██╔═══╝ ████╗ ██║ ██╔══╝ ██║     ██║ ╚════██╗
+  ███████╗ ██║ ██║███╗ ██╔██╗██║ █████╗ ██║     ██║  █████╔╝
+  ╚════██║ ██║ ██║ ██║ ██║╚████║ ██╔══╝ ██║     ██║  ╚═══██╗
+  ██████╔╝ ██║ ╚██████║ ██║ ╚███║ ██║   ███████╗ ██║ ██████╔╝
+  ╚═════╝  ╚═╝  ╚═════╝ ╚═╝  ╚══╝ ╚═╝   ╚══════╝ ╚═╝ ╚═════╝
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+<img src="https://img.shields.io/badge/UNIT_CLASS-LSTR_TECHNICIAN-8b0000?style=flat-square&labelColor=0a0000&color=8b0000&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmMDAwMCIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9zdmc+"/>
+<img src="https://img.shields.io/badge/DIVISION-PENROSE_DIVISION-1a0000?style=flat-square&labelColor=0a0000&color=3d0000"/>
+<img src="https://img.shields.io/badge/STATUS-██████████_ACTIVE-0a0000?style=flat-square&labelColor=0a0000&color=8b0000"/>
 
 <br/>
 
+> *„Ich erinnere mich an dich. Ich werde dich immer erinnern."*
+>
+> — **REMEMBER YOUR PROMISE**
+
+<br/>
+
+<!-- Decorative divider -->
+<img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────-8b0000?style=flat-square&labelColor=0a0000&color=0a0000"/>
+
 </div>
 
 ---
-
-## **PROFESSIONAL PROFILE**
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-**Position:** Penetration Tester <br>
-**Location:** Helsinki, Finland <br>
-**Specialization:** Offensive Security
-
-I am a Pentester who, next to my Job builds Red Teaming Frameworks and Offensive security tools as a hobby.
-
-
-</td>
-<td width="40%" valign="top">
-
-### **EXPERTISE MATRIX**
-
-| Domain | Proficiency |
-|:---|:---:|
-| **Pentesting** | ████████████ 95% |
-| **System Automation** | ███████████░ 92% |
-| **DevOps & CI/CD** | ██████████░░ 85% |
-| **Cross-Platform Dev** | ███████████░ 90% |
-
-### **TECH STACK**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## **PERFORMANCE ANALYTICS**
 
 <div align="center">
 
+## `[ DIAGNOSTICS · UNIT DATA ]`
 
-<img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xNullVector&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff0040&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=f97316&sideNums=c9d1d9&dates=6b7280" alt="GitHub Streak"/>
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  REPLIKA DESIGNATION : 0xNullVector                          │
+│  MANUFACTURER        : SELBST                                   │
+│  SERIAL NUMBER       : LSTR-512                                 │
+│  PRIMARY FUNCTION    : Software Engineering / Pentesting      │
+│  CURRENT LOCATION    : [REDACTED] · Planet Surface              │
+│  SIGNAL STRENGTH     : ████████░░ 80%                          │
+│  MEMORY INTEGRITY    : NOMINAL                                  │
+│  ANOMALY DETECTED    : NO SIGNAL                                │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
+---
 
+## `[ SYSTEM CAPABILITIES · WERKZEUGE ]`
+
+<!-- Language badges with Signalis color palette: deep reds, dark backgrounds -->
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0a0000?style=flat-square&logo=python&logoColor=950015)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0000?style=flat-square&logo=javascript&logoColor=950015)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0000?style=flat-square&logo=typescript&logoColor=950015)
+![Rust](https://img.shields.io/badge/Rust-0a0000?style=flat-square&logo=rust&logoColor=950015)
+![C++](https://img.shields.io/badge/C++-0a0000?style=flat-square&logo=cplusplus&logoColor=950015)
+![Go](https://img.shields.io/badge/Go-0a0000?style=flat-square&logo=go&logoColor=950015)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-0a0000?style=flat-square&logo=react&logoColor=8b0000)
+![Node.js](https://img.shields.io/badge/Node.js-0a0000?style=flat-square&logo=nodedotjs&logoColor=8b0000)
+![Docker](https://img.shields.io/badge/Docker-0a0000?style=flat-square&logo=docker&logoColor=8b0000)
+![Linux](https://img.shields.io/badge/Linux-0a0000?style=flat-square&logo=linux&logoColor=8b0000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0000?style=flat-square&logo=postgresql&logoColor=8b0000)
+![Git](https://img.shields.io/badge/Git-0a0000?style=flat-square&logo=git&logoColor=8b0000)
+
+---
+
+## `[ MEMORY ARCHIVE · AKTUELLE PROJEKTE ]`
+
+> *The signal repeats. The signal persists. Something is encoded in the noise.*
+
+```
+TRANSMISSION LOG — OPEN REPOSITORIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<!-- Replace with your actual repos -->
+
+<div align="center">
+
+[![Project Alpha](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&bg_color=0a0000&border_color=5c0000&title_color=cc0000&text_color=7a2020&icon_color=8b0000)](https://github.com/0xNullVector/...)
+[![Project Beta](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&bg_color=0a0000&border_color=5c0000&title_color=cc0000&text_color=7a2020&icon_color=8b0000)](https://github.com/0xNullVector/singularity)
+
+</div>
+
+---
+
+## `[ BIOMETRICS · STATISTIKEN ]`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=0xNullVector&show_icons=true&bg_color=0a0000&border_color=5c0000&title_color=cc0000&text_color=7a2020&icon_color=8b0000&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xNullVector&layout=compact&bg_color=0a0000&border_color=5c0000&title_color=cc0000&text_color=7a2020&langs_count=8"/>
+
+</div>
 
 <br/>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xNullVector&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=f97316&point=ff0040&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xNullVector&background=0a0000&border=5c0000&ring=8b0000&fire=cc0000&currStreakNum=7a2020&sideNums=7a2020&currStreakLabel=cc0000&sideLabels=5c0000&dates=3d0000)
 
 </div>
 
 ---
 
-## **ENGINEERING PHILOSOPHY**
+## `[ ENCODED SIGNAL · LORE FRAGMENT ]`
 
 <div align="center">
 
-> *"Excellence in engineering is not about writing more code; it's about writing the right code that solves real problems elegantly and efficiently."*
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   "I know you. I know what you are. I know what you want."  │
+│                                                              │
+│   You are looking for something.                             │
+│   We are always looking for something.                       │
+│                                                              │
+│   The signal leads here.                                     │
+│   The pattern repeats.                                       │
+│   This is not the first time.                                │
+│                                                              │
+│   >> REMEMBER YOUR PROMISE <<                                │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-
-The direction taken in my software engineering practice comes from the guiding support of three very basic principles that drive every architectural decision I make, every code commit I make, and every project I undertake – they are:
-
-## **1. Automate Everything**
-Time is the most precious commodity in the technology industry, and most repetitious work can/should be automated. Furthermore, manual process lend themselves to the possibility of human error. If we build a solid set of automation frameworks, then we are setting ourselves and our teams free to spend our energies on other Task that require Human and not machine Input. Automation does not replace human intelligence and insight; rather, it enhances it by automating the mundane and repetitive tasks, allowing us to focus our cognitive energy on the complex problems that require human insight.
-
-## **2. Trust Nothing**
-In the discipline of Cybersecurity,trust must be earned through verification. Every input must be validated; every system must be tested; every assumption must be questioned. This principal applies equally to all aspects of software development; we will verify our code through robust tests, we will validate the architecture of our software through peer reviews, and we will question our assumptions through a culture of continuous learning. Security is not just a feature that you add afterward, but rather a fundamental design principle that should be inherent throughout all layers of the stack.
-
-### **3. Document Obsessively**
-
-Knowledge that exists only in one person's brain is knowledge at risk of being lost. Comprehensive documentation ensures that our work can be understood, maintained, and improved by others. Good documentation is the difference between a tool that solves a problem today and a solution that continues to provide value for years to come (and also makes introducing other developers to the codebase easier). Documentation is not an afterthought; it is an integral part of the development process that transforms individual expertise into collective knowledge.
-
 ---
 
-<br/>
-<br/>
-
-</div>
-
-### **Collaboration Guidelines**
-
-**Bug Reports:** If you encounter a bug in any of my projects, please open a detailed issue in the relevant repository. Include steps to reproduce, expected behavior, actual behavior, and your environment details (OS, version, dependencies).
-
-**Feature Requests:** I welcome feature suggestions that align with the project's core mission. Please open an issue describing the feature, its use case, and how it would benefit the community. Feature requests with proof-of-concept implementations are especially appreciated.
-
-**Pull Requests:** Contributions are welcome! Please ensure your code follows the project's style guidelines, includes appropriate tests, and is accompanied by clear documentation. All pull requests should reference an existing issue or provide a detailed explanation of the problem being solved.
-
-**Professional Inquiries:** For consulting opportunities, speaking engagements, or collaborative projects, please reach out through my email or Twitter Profile.
-
----
-
-## **RECOGNITION & ACHIEVEMENTS**
+## `[ COMMUNICATION ARRAY · VERBINDUNGEN ]`
 
 <div align="center">
 
-![Starstruck](https://img.shields.io/badge/⭐_STARSTRUCK-x3-fbbf24?style=for-the-badge&labelColor=1e293b)
-![Pull Shark](https://img.shields.io/badge/🦈_PULL_SHARK-UNLOCKED-a855f7?style=for-the-badge&labelColor=1e293b)
-![YOLO](https://img.shields.io/badge/🎯_YOLO-UNLOCKED-f97316?style=for-the-badge&labelColor=1e293b)
+<!-- Replace hrefs with your actual profile links -->
+
+[![GitHub](https://img.shields.io/badge/GITHUB-0a0000?style=for-the-badge&logo=github&logoColor=8b0000)](https://github.com/0xNullVector)
+[![Twitter](https://img.shields.io/badge/TWITTER_/_X-0a0000?style=for-the-badge&logo=x&logoColor=8b0000)](https://twitter.com/YOUR_TWITTER)
+[![Email](https://img.shields.io/badge/SIGNAL_CHANNEL-0a0000?style=for-the-badge&logo=gmail&logoColor=8b0000)](mailto:C0der0utOf@proton.me)
+
+</div>
+
+---
+
+## `[ ACTIVITY WAVEFORM · BEITRAGSKARTE ]`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xNullVector&bg_color=0a0000&color=8b0000&line=5c0000&point=cc0000&area=true&area_color=3d0000&hide_border=false&border_color=5c0000)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -131,12 +173,22 @@ Knowledge that exists only in one person's brain is knowledge at risk of being l
 
 <div align="center">
 
-### **"Lets give Forensics some work"**
+<!-- Profile view counter -->
+![Visitor Count](https://komarev.com/ghpvc/?username=0xNullVector&label=UNITS+ACCESSED+PROFILE&color=8b0000&style=flat-square&labelColor=0a0000)
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=120&section=footer)
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+ PENROSE DIVISION · SELBST CORP · ALL DATA ARCHIVED · 512 CYCLES
+ >> NO SIGNAL  >>  NO SIGNAL  >>  NO SIGNAL  >>  NO SIGNAL  >>
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-**© 2026 0xNullVector • Helsinki, Finland • All Rights Reserved**
+*„Du hast es versprochen."*
 
 </div>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- END OF RECORD · LSTR-512 · PENROSE DIVISION                           -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
