@@ -166,7 +166,7 @@ TRANSMISSION LOG — OPEN REPOSITORIES
 <div align="center">
 
 [![Project Alpha](https://github-readme-stats.vercel.app/api/pin/?username=0xNullVector&repo=Methodology&bg_color=0a0000&border_color=5c0000&title_color=cc0000&text_color=7a2020&icon_color=8b0000)](https://github.com/0xNullVector/Methodology)
-[![Project Beta](https://github-readme-stats.vercel.app/api/pin/?username=0xNullVector&repo=crt.sh-enum_2&bg_color=0a0000&border_color=5c0000&title_color=cc0000&text_color=7a2020&icon_color=8b0000)](https://github.com/0xNullVector/crt.sh-enum)
+[![Project Beta](https://github-readme-stats.vercel.app/api/pin/?username=0xNullVector&repo=crt.sh-enum&2&bg_color=0a0000&border_color=5c0000&title_color=cc0000&text_color=7a2020&icon_color=8b0000)](https://github.com/0xNullVector/crt.sh-enum)
 
 </div>
 
