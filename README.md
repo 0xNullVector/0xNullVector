@@ -74,11 +74,7 @@ uid=0(root) gid=0(root) groups=0(root),1337(elite)
     "misc (the giga-brain ones)"
   ],
   "preferred_platforms": ["CTFtime", "HackTheBox", "pwn.college"],
-  "notable_placements": [
-    "Top 10 — [Event Name] CTF",
-    "1st — [Event Name] pwn category",
-    "Top 50 — International qualifier"
-  ],
+ 
   "write_ups_published": true
 }
 ```
