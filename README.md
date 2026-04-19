@@ -12,7 +12,7 @@
 
 *`// low-level offense. kernel land. competitive hacking.`*
 
-[![CTF Rank](https://img.shields.io/badge/CTF-Top%201%25-crimson?style=flat-square&logo=hackthebox&logoColor=white)](https://ctftime.org)
+[![CTF Rank](https://img.shields.io/badge/CTF-Top%203%25-crimson?style=flat-square&logo=hackthebox&logoColor=white)](https://ctftime.org)
 [![Focus](https://img.shields.io/badge/Focus-Kernel%20%2F%20Rootkits%20%2F%20Exploits-black?style=flat-square&logo=linux&logoColor=white)](https://github.com)
 [![Platform](https://img.shields.io/badge/OS-Linux%20%7C%20Windows-informational?style=flat-square&logo=ubuntu&logoColor=white)](https://github.com)
 [![Language](https://img.shields.io/badge/Primary-C%20%7C%20Assembly%20%7C%20Python-00ff88?style=flat-square&logo=gnu&logoColor=white)](https://github.com)
@@ -83,7 +83,7 @@ uid=0(root) gid=0(root) groups=0(root),1337(elite)
 }
 ```
 
-> 📂 **[CTF Write-ups →](./ctf-writeups/)** — Detailed breakdowns of interesting challenges: kernel pwn, obscure reversing, novel heap techniques.
+
 
 ---
 
@@ -138,8 +138,7 @@ f19a831  [research] DKOM walk — hiding from eBPF-based EDRs
 
 [![CTFtime](https://img.shields.io/badge/CTFtime-Profile-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://ctftime.org)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@handle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Blog](https://img.shields.io/badge/Blog-Research%20Notes-ff6b35?style=for-the-badge&logo=ghost&logoColor=white)](https://yourblog.dev)
+
 
 </div>
 
