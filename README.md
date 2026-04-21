@@ -113,7 +113,7 @@ f19a831  [research] DKOM walk — hiding from eBPF-based EDRs
 9a3e558  [ctf] write-up: browser pwn via JIT type confusion
 ```
 
-> ⚠️ **Note:** Offensive Tools are kept private or are published responsibly after coordinated disclosure. Public repos contain sanitised PoCs, research notes, and CTF solutions only.
+> **Note:** Offensive Tools are kept private or are published responsibly after coordinated disclosure. Public repos contain sanitised PoCs, research notes, and CTF solutions only.
 
 ---
 
